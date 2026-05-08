@@ -284,7 +284,7 @@ Deployed using:
 
 ---
 
-# Demo
+# Screenshots
 <img width="1920" height="763" alt="Screenshot (410)" src="https://github.com/user-attachments/assets/fee2f3e7-9729-4c35-bca9-d0ec5c84c893" />
 
 
@@ -295,24 +295,7 @@ Deployed using:
 
 
 
----
 
-# Screenshots
-
-Add screenshots of:
-
-* Homepage
-* Route visualization
-* Optimized fuel stops
-* API response in Postman
-
-Example:
-
-```markdown
-![App Screenshot](./screenshots/app.png)
-```
-
----
 
 # Author
 
