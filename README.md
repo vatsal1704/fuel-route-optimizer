@@ -24,6 +24,15 @@ The system combines route optimization, fuel price analysis, and interactive map
 
 ---
 
+# Screenshots
+<img width="1920" height="763" alt="Screenshot (410)" src="https://github.com/user-attachments/assets/fee2f3e7-9729-4c35-bca9-d0ec5c84c893" />
+
+
+---
+
+
+<img width="1920" height="755" alt="Screenshot (411)" src="https://github.com/user-attachments/assets/64132c9c-4dc8-439f-8ca6-3c6557625795" />
+
 # Tech Stack
 
 ## Backend
@@ -283,18 +292,6 @@ Deployed using:
 * Render
 
 ---
-
-# Screenshots
-<img width="1920" height="763" alt="Screenshot (410)" src="https://github.com/user-attachments/assets/fee2f3e7-9729-4c35-bca9-d0ec5c84c893" />
-
-
----
-
-
-<img width="1920" height="755" alt="Screenshot (411)" src="https://github.com/user-attachments/assets/64132c9c-4dc8-439f-8ca6-3c6557625795" />
-
-
-
 
 
 # Author
